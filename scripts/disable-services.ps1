@@ -16,7 +16,7 @@ $services = @(
     "SharedAccess"                             # Internet Connection Sharing (ICS)
     "TrkWks"                                   # Distributed Link Tracking Client
     "WbioSrvc"                                 # Windows Biometric Service
-    #"WlanSvc"                                 # WLAN AutoConfig
+    "WlanSvc"                                 # WLAN AutoConfig
     "WMPNetworkSvc"                            # Windows Media Player Network Sharing Service
     "wscsvc"                                   # Windows Security Center Service
     #"WSearch"                                 # Windows Search
